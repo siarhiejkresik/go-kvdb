@@ -1,6 +1,7 @@
 # go-kvdb
 
-Go implementation of the server-client solution for storing key-value data.
+Go implementation of the server-client solution for storing key-value data ([task link](https://github.com/siarhiejkresik/go-kvdb/blob/master/docs/requirements.md)).
+
 
 ## Requirements
 
