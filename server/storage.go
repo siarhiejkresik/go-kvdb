@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/SiarheiKresik/go-kvdb/db"
+	"github.com/siarhiejkresik/go-kvdb/db"
 )
 
 func storage(cmd chan command, mode string) {

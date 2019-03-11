@@ -11,7 +11,7 @@ APP_BASE_NAME := go-kvdb
 APP_CLIENT_NAME := client
 APP_SERVER_NAME := server
 
-REPOSITORY_PATH := github.com/SiarheiKresik
+REPOSITORY_PATH := github.com/siarhiejkresik
 
 DEV_GOPATH := /go
 DEV_GOPATH_BIN := $(DEV_GOPATH)/$(BIN)
