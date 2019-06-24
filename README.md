@@ -13,12 +13,12 @@ Go implementation of the server-client solution for storing key-value data ([tas
 
 If you have `go` tool installed:
 
--   get source files: `go get github.com/SiarheiKresik/go-kvdb`
--   `cd $GOPATH/src/github.com/SiarheiKresik/go-kvdb`
+-   get source files: `go get github.com/siarhiejkresik/go-kvdb`
+-   `cd $GOPATH/src/github.com/siarhiejkresik/go-kvdb`
 
 Or get source files by cloning repository directly:
 
--   get source files: `git clone https://github.com/SiarheiKresik/go-kvdb.git`
+-   get source files: `git clone https://github.com/siarhiejkresik/go-kvdb.git`
 -   `cd go-kvdb`
 
 ## Building
